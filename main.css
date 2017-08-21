@@ -481,13 +481,14 @@ footer{
     margin-top: 9.2%;
     background-color: black;
     height: 114px;
-    width: auto;
+    width: 100%;
 }
 
 .copirate{
     margin-left: 10%;
     padding-top: 57px;
     float: left;
+    width: 20%;
     
 }
 
