@@ -440,13 +440,14 @@ form{
 .mail_input{
     float: left;
     margin-left: 95px;
+    width: 60%;
 
 }
 
 .mail_input > input {
     border:solid 1px #f5f0dd;
     height: 50px;
-    width: 500px;
+    width: 100%;
     -webkit-border-radius:10px;
     -moz-border-radius:10px; 
     border-radius: 10px;
